@@ -1,4 +1,4 @@
-## Hi there, 👋
+## Hi there 👋
 
 <!--
 **Ashok-Babu-KG/Ashok-Babu-KG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
